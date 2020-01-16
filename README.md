@@ -11,9 +11,13 @@ These assingments teach you more complex SolidWork tools
 
 
 ## Images
+
+#### Lofts
 ![Hammer](Pictures/Hammer_headPic.PNG)
+
+#### Sweeps 
 ![Candle](Pictures/Candle_StickPic.PNG)
-![Pressure](Pictures/Pressure_PlatePic.PNG)
+
 
 
 ## Introduction
@@ -26,6 +30,11 @@ These assingments are to refresh your memory on Solidworks and learn some new th
 - I got better at SolidWorks
 
 ## Images 
+
+#### Assembly 
 ![Box](Pictures/FullBoxPic.PNG)
 ![Leg](Pictures/Leg_part_1Pic.PNG)
 ![Tutor](Pictures/Tutor2Pic.PNG)
+
+#### Introduction 
+![Pressure](Pictures/Pressure_PlatePic.PNG)
